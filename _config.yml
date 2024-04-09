@@ -4,5 +4,13 @@ theme: just-the-docs
 
 url: https://tryauth.github.io/docs
 
+mermaid:
+  # Version of mermaid library
+  # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
+  version: "9.1.3"
+
+footer_content: "Copyright &copy; 2022 <a href=\"https://tech6group.com\">Tech6 Group.</a>"
+
+
 #aux_links:
 #  Template Repository: https://github.com/just-the-docs/just-the-docs-template
