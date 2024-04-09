@@ -1,5 +1,5 @@
 ---
 layout: default
-title: OAuth 2
-nav_order: 3
+title: OAuth 2.0
+nav_order: 5
 ---

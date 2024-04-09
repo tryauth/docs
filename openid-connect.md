@@ -1,5 +1,5 @@
 ---
 layout: default
 title: OpenID Connect
-nav_order: 2
+nav_order: 4
 ---
